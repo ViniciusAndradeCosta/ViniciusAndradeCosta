@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Vinicius Andrade</h1>
-<h3 align="center">Eu sou um estudante do curso sistemas de informação, estou cursando na Universidade Federal de Ouro Preto, tenho 19 anos, e sou facinado pelo mundo da tecnologia. Criatividade e paixão movendo linhas de código: explorando o mundo da programação com entusiasmo e dedicação.</h3>
+<h3 align="center">Eu sou um estudante do curso de Sistemas de Informação na Universidade Federal de Ouro Preto, tenho 20 anos e sou fascinado pelo mundo da tecnologia. Criatividade e paixão movendo linhas de código: explorando o universo da programação com entusiasmo e dedicação. Busco constantemente expandir meu conhecimento, mergulhando em novas linguagens e frameworks, sempre em busca de soluções inovadoras para os desafios que surgem no desenvolvimento de software. A cada linha de código escrita, sinto-me mais próximo de transformar ideias em realidade, contribuindo assim para o avanço da tecnologia e da sociedade como um todo. Estou entusiasmado com as infinitas possibilidades que o mundo da programação oferece e determinado a fazer a diferença com meu trabalho.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
