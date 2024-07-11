@@ -1,16 +1,11 @@
-## Olá, eu sou a Ana! 👋
+## Olá, eu sou o Vinícius Andrade! 👋
 Seja muito bem vinda(o) ao meu Perfil! 😉
 
 <div>
   <img align="right" alt="Git-Computador" width="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
-- Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Back-end, Desenvolvimento Contínuo e Criatividade.
-- Estou em busca de projetos para colaborar e aprender, explorando o mundo do back-end, e praticando o front.
-- Analista de Engenharia de Software Jr.
-- Estudante de Bacharelado em Sistemas de Informação.
-- Técnica em Informática para Internet.
-- Pergunte-me sobre: Front-end.
+- Sou estudante de Sistemas de Informação, apaixonado por tecnologia e inovação. Com uma forte curiosidade por entender como as coisas funcionam, estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades em desenvolvimento de software e engenharia de sistemas.
 
 ## 📊 Estatísticas
 
@@ -26,11 +21,10 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
     
 ## 📫 Contatos
 
-Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉
+Entre em contato comigo 😉
   
-[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
-[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
-[<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
+[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.viniciusac.pro@gmail.com)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinicius-andrade-4a4b33250/)
 
 <br><br>
  
