@@ -20,7 +20,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
-<div align="center">
+
 ![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
 
 
