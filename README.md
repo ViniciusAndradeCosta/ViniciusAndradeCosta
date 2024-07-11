@@ -3,18 +3,6 @@
 <div align="right">
 
 
-
-</div>
-
-<div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/01aedc336431ca8444347703ce043252a085eb6f/banner_welcome.png"/>
-</div>
-
-<div align="right">
-<br>
-
-![profile-views](https://komarev.com/ghpvc/?username=ViniciusAndradeCosta&color=blueviolet)
-
 </div>
 
 <div align="center">
