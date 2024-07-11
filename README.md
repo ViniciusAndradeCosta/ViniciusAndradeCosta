@@ -10,14 +10,14 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 ## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/AnaProgramando">
-    <p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AnaProgramando&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA"/></p>
+  <a href="https://github.com/ViniciusAndradeCosta">
+    <p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusAndradeCosta&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA"/></p>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
-![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ViniciusAndradeCosta/ViniciusAndraddeCosta/blob/output/github-contribution-grid-snake.svg)
     
 ## 📫 Contatos
 
