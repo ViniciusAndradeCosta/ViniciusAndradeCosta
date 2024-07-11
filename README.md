@@ -1,12 +1,27 @@
-## Olá, eu sou o Vinícius Andrade! 👋
-Seja muito bem vinda(o) ao meu Perfil! 😉
+## Olá, eu sou Vinicius! 👋
 
-<div>
-  <img align="right" alt="Git-Computador" width="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+<div align="right">
+
+#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/AnaProgramando/blob/main/README-us.md)</kbd>
+
 </div>
 
-- Sou estudante de Sistemas de Informação, apaixonado por tecnologia e inovação. Com uma forte curiosidade por entender como as coisas funcionam, estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades em desenvolvimento de software e engenharia de sistemas.
+<div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/01aedc336431ca8444347703ce043252a085eb6f/banner_welcome.png"/>
+</div>
 
+<div align="right">
+<br>
+
+![profile-views](https://komarev.com/ghpvc/?username=ViniciusAndradeCosta&color=blueviolet)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;Sou+estudante+de+sistemas+de+informação%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
+
+</div>
 ## 📊 Estatísticas
 
 <div align="center">
@@ -32,4 +47,4 @@ Entre em contato comigo 😉
   <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/ea3ccd628d71db5931630ff24b139b0d4ec88cc9/pixel_art.gif"/>
 </div>
 
-![Estatísticas do GitHub de Vinicius Andrade](https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=radical)
+
