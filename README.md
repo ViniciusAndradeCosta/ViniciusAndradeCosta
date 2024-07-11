@@ -32,4 +32,4 @@ Entre em contato comigo 😉
   <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/ea3ccd628d71db5931630ff24b139b0d4ec88cc9/pixel_art.gif"/>
 </div>
 
-![Estatísticas do GitHub de Vinicius Andrade](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Vinicius Andrade](https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=radical)
