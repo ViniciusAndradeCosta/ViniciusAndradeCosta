@@ -1,11 +1,39 @@
-<h1 align="center">Olá 👋, Eu sou o Vinícius Andrade</h1>
-<h3 align="center">Eu sou um estudante do curso de Sistemas de Informação na Universidade Federal de Ouro Preto, tenho 20 anos e sou fascinado pelo mundo da tecnologia. Criatividade e paixão movendo linhas de código: explorando o universo da programação com entusiasmo e dedicação. Busco constantemente expandir meu conhecimento, mergulhando em novas linguagens e frameworks, sempre em busca de soluções inovadoras para os desafios que surgem no desenvolvimento de software. A cada linha de código escrita, sinto-me mais próximo de transformar ideias em realidade, contribuindo assim para o avanço da tecnologia e da sociedade como um todo. Estou entusiasmado com as infinitas possibilidades que o mundo da programação oferece e determinado a fazer a diferença com meu trabalho.</h3>
+## Olá, eu sou a Ana! 👋
+Seja muito bem vinda(o) ao meu Perfil! 😉
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-andrade-4a4b33250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/" height="30" width="40" /></a>
-<a href="https://instagram.com/viniciusac_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viniciusac_" height="30" width="40" /></a>
-</p>
+<div>
+  <img align="right" alt="Git-Computador" width="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Back-end, Desenvolvimento Contínuo e Criatividade.
+- Estou em busca de projetos para colaborar e aprender, explorando o mundo do back-end, e praticando o front.
+- Analista de Engenharia de Software Jr.
+- Estudante de Bacharelado em Sistemas de Informação.
+- Técnica em Informática para Internet.
+- Pergunte-me sobre: Front-end.
+
+## 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/AnaProgramando">
+    <p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AnaProgramando&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA"/></p>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=cobalt"/>
+</div>
+
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+    
+## 📫 Contatos
+
+Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉
+  
+[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
+[<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
+
+<br><br>
+ 
+ <div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/ea3ccd628d71db5931630ff24b139b0d4ec88cc9/pixel_art.gif"/>
+</div>
