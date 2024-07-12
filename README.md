@@ -23,8 +23,7 @@
 
 # 📊 Estatísticas no GitHub
 
-(![image](https://ViniciusAndradeCosta-images.githubusercontent.com/20955511/183303740-641a4a18-da69-46a8-b218-f1a6dc04fcdf.png)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=midnight-purple)](https://git.io/streak-stats)
 <br>
 
 <p align="center">
