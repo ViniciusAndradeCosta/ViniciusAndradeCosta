@@ -9,6 +9,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;Sou+estudante+de+sistemas+de+informação%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
 
+# 🔝 Linguagens mais usadas
+
+<br>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=16&theme=cobalt"/>
+</p>
+  
+<br>
+
 # 📊 Estatísticas no GitHub
 
 <br>
