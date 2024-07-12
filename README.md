@@ -9,6 +9,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;Sou+estudante+de+sistemas+de+informação%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
 
+# ⌨️ Linguagens
+
+<br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 # 🔝 Linguagens mais usadas
 
 <br>
