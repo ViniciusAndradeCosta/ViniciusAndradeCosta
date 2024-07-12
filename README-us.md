@@ -51,7 +51,7 @@
 
 <div align="center"> 
   <div style="display: inline_block"><br>
-    Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
+    Feel free to connect with me on other social networks, and if you need help or have questions and suggestions, send me a message. 😉
     <br><br>
     <a href="mailto:anabe.viniciusac.pro@gmail.com">
       <img alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
