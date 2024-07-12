@@ -29,13 +29,20 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=midnight-purple)](https://git.io/streak-stats)
 <br>
 
-<div align="center">
-  <a href="https://github.com/carviit">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=7&theme=midnight-purple" />
-    <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-  </a>
-</div>
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=16&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"/>
+</p>
+  
+<br>
+
+
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</p>
+
+
+<br>
+
+
 
 ![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
 
