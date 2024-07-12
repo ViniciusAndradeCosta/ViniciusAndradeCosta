@@ -53,6 +53,7 @@
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.viniciusac.pro@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinicius-andrade-4a4b33250/)
   
+<br>
   </div>
 </div>
 
