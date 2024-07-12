@@ -32,7 +32,9 @@
 <br>
 
 <p align="center">
-   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusAndradeCosta&theme=midnight-purple-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusAndradeCosta&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+</p>
+
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </p>
 
