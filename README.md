@@ -26,7 +26,7 @@
 
 <br>
 
-![Snake animation](https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Contatos
