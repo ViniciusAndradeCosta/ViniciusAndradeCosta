@@ -14,8 +14,8 @@
 <br>
 
 <p align="center">
-   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=AnaProgramando&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusAndradeCosta&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </p>
 
 
