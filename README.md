@@ -1,4 +1,4 @@
-## Olá, eu sou Vinicius! 👋
+## Olá, eu sou Vinícius Andrade! 👋
 
 <div align="right">
 
