@@ -66,7 +66,7 @@
 
 
 
-[<img align="right" alt="Back to the top" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
+[<img align="right" alt="Back to the top" width="80px" src="https://img.shields.io/static/v1?label&message=Back+to+the+top&color=blueviolet&style=flat&logo"/>](https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
 
 <br>
  
