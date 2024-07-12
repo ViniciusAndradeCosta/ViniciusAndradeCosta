@@ -36,10 +36,16 @@ Entre em contato comigo 😉
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.viniciusac.pro@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinicius-andrade-4a4b33250/)
 
-<br><br>
+
+ 
+ <br>
+
+[<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/AnaProgramando/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
+
+<br>
  
  <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/ea3ccd628d71db5931630ff24b139b0d4ec88cc9/pixel_art.gif"/>
+  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif"/>
 </div>
 
 
