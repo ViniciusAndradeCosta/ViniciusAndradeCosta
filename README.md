@@ -23,12 +23,12 @@
 
 # 📊 Estatísticas no GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ViniciusAndradeCosta&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 <br>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=16&theme=midnight-purple"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=16&theme=cobalt"/>
 </p>
   
 <br>
