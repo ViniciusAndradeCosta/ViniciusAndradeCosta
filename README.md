@@ -36,8 +36,7 @@
 <br>
 
 
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=midnight-purple)
 
 
 <br>
