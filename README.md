@@ -20,19 +20,23 @@
 
 
 <br>
-# 🐍 Commit Snake
 
 <br>
 
 ![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
 
 
-## 📫 Contatos
+# ✉️ Contatos
 
-Entre em contato comigo 😉
-  
+<br>
+
+Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
+
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.viniciusac.pro@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinicius-andrade-4a4b33250/)
+
+  
+<br><br>
 
 
  
