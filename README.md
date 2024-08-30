@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=792A88&width=435&lines=Bem+vindo(a)+ao+meu+perfil!+;Sou+estudante+de+;Sistemas+de+Informa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=792A88&width=435&lines=Bem+vindo(a)+ao+meu+perfil!+;Me+chamo+Vinicius+Andrade!;Apaixonado+por+tecnologia!)](https://git.io/typing-svg)
 
 # ⌨️ Linguagens
 
