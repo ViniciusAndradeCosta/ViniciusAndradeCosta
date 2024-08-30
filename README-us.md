@@ -20,6 +20,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
   </div>
 </div>
@@ -79,9 +80,6 @@
 </div>
 
 
-
-
-[<img align="right" alt="Back to the top" width="80px" src="https://img.shields.io/static/v1?label&message=Back+to+the+top&color=blueviolet&style=flat&logo"/>](https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
 
 <br>
  
