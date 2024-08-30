@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!+%F0%9F%98%89;Sou+estudante+de+sistemas+de+informacao%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=792A88&width=435&lines=Bem+vindo(a)+ao+meu+perfil!+;Sou+estudante+de+;Sistemas+de+Informa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
 # ⌨️ Linguagens
 
