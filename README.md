@@ -1,53 +1,72 @@
-# 👋 Olá, eu sou Vinícius Andrade!
+<h1 align="center">Vinícius Andrade 👨‍💻</h1>
 
-Seja bem-vindo ao meu GitHub! Sou estudante e entusiasta em desenvolvimento de software, apaixonado por tecnologia, ciência de dados e soluções inteligentes que impactam positivamente o mundo.
-
-Atualmente, venho aprimorando meus conhecimentos em linguagens de programação, estruturas de dados, bancos de dados, desenvolvimento web e ferramentas de Business Intelligence.
-
----
-
-## 🛠️ Tecnologias e Linguagens
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+<p align="center">
+  Desenvolvedor em formação | Foco em dados, código e propósito
+</p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🧠 Sobre mim
 
-<div align="center">
+Olá! Sou Vinícius Andrade, um entusiasta de tecnologia e dados. Gosto de entender como as coisas funcionam por trás das interfaces, resolver problemas reais com código limpo e transformar dados em conhecimento.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=midnight-purple)](https://git.io/streak-stats)
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&langs_count=10&theme=midnight-purple"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=midnight-purple"/>
-
-</div>
+Atualmente, estou em constante evolução na área de desenvolvimento e Business Intelligence, buscando combinar lógica, criatividade e impacto em tudo que faço.
 
 ---
 
-## 📬 Contato
+## 💼 Habilidades Técnicas
 
-<div align="center">
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Se quiser trocar uma ideia, colaborar em algum projeto ou simplesmente bater um papo sobre tecnologia, sinta-se à vontade para me chamar!
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anabe.viniciusac.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-4a4b33250/)
-
-</div>
+### Ferramentas e Tecnologias
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<div align="center">
-  <img alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif"/>
-</div>
+## 📊 GitHub Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Atualmente estudando
+
+- Desenvolvimento Full Stack
+- Modelagem de dados para BI
+- Engenharia de dados com Python
+- Visualizações estratégicas com Power BI
+
+---
+
+## 🤝 Conecte-se comigo
+
+<p align="center">
+  <a href="mailto:anabe.viniciusac.pro@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Transformar dados em decisões, e ideias em soluções — um commit de cada vez."</i>
+</p>
+
