@@ -50,6 +50,7 @@ Atualmente, estou em constante evolução na área de desenvolvimento e Business
 - Modelagem de dados para BI
 - Engenharia de dados com Python
 - Visualizações estratégicas com Power BI
+- Aprendizagem de Máquina
 
 ---
 
