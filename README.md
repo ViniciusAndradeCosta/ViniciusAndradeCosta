@@ -2,15 +2,6 @@
 
 <div align="right">
 
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/main/README-us.md)</kbd>
-
-</div>
-
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!+%F0%9F%98%89;)](https://git.io/typing-svg)
 
 # ⌨️ Linguagens
 
@@ -44,23 +35,6 @@
 <br>
 
 
-
-<div> 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture> 
-<div> 
 
 
 # ✉️ Contatos
