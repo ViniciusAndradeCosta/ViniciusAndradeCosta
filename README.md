@@ -1,101 +1,47 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Vinícius%20Andrade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+# Olá, eu sou Vinicius Andrade Costa! 👋
 
-<p align="center">
+![Header](header.png)
 
-💻 Software Developer  
-📊 Data & Business Intelligence Enthusiast  
-⚙️ Building systems, analyzing data and solving real problems with code
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ViniciusAndradeCosta.ViniciusAndradeCosta)
 
-</p>
+Desenvolvedor apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e impactantes. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e sistemas, explorando novas ferramentas e aprimorando minhas habilidades em diversas linguagens e frameworks.
 
----
+## 🚀 Minhas Habilidades
 
-# 👨‍💻 About Me
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I'm **Vinícius Andrade**, a developer passionate about **technology, data and problem solving**.
+## 💡 Projetos em Destaque
 
-I enjoy understanding **how systems work behind the scenes**, designing efficient solutions and transforming raw data into meaningful insights.
+### [ScoutPro](https://github.com/ViniciusAndradeCosta/ScoutPro)
+Projeto desenvolvido como trabalho final da disciplina de Sistemas Web 1, consistindo em uma aplicação para otimizar o processo de scouting de jogadores, utilizando Java com Spring Boot no backend e React no frontend.
 
-My work and studies revolve around the intersection of:
+### [carteira-de-investimentos](https://github.com/ViniciusAndradeCosta/carteira-de-investimentos)
+Projeto desenvolvido como parte da disciplina de Sistemas Web 2, consistindo em uma aplicação para gerenciamento de carteiras de investimentos, utilizando Java com Spring Boot no backend e React no frontend.
 
-- **Software Development**
-- **Data Engineering**
-- **Business Intelligence**
-- **Data-Driven Decision Making**
+### [adote-facil](https://github.com/ViniciusAndradeCosta/adote-facil)
+Plataforma para facilitar o processo de adoção de animais, conectando protetores e interessados. Desenvolvido com foco em usabilidade e acessibilidade.
 
-I believe technology should not only work — **it should create impact**.
+### [AEDS-I-Roteiro-Turistico-Inteligente](https://github.com/ViniciusAndradeCosta/AEDS-I-Roteiro-Turistico-Inteligente)
+Sistema em linguagem C que simula um roteiro turístico inteligente por cidades históricas de Minas Gerais, utilizando árvore binária de busca e algoritmos de ordenação.
 
----
+## 📊 Estatísticas do GitHub
 
-# 🧠 Core Areas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&theme=radical)
 
-- Software Development
-- Backend Development
-- Data Analysis
-- Business Intelligence
-- Data Engineering
----
-# ⚙️ Tech Stack
-## 💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,c,java,javascript"/> </p>
+## 🤝 Conecte-se Comigo
 
-## 🌐 Web Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,javascript"/> </p>
-
-## 📊 Data & Analytics
-<p> <img src="https://skillicons.dev/icons?i=python"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
-
-## 🛠 Tools & Technologies
-<p> <img src="https://skillicons.dev/icons?i=git,vscode"/> </p>
-
-## 📊 GitHub Analytics
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=tokyonight&hide_border=true"/> </p>
-
-## 📈 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusAndradeCosta&theme=tokyo-night&hide_border=true"/> </p>
-
-## 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/ViniciusAndradeCosta/ViniciusAndradeCosta/output/github-contribution-grid-snake.svg"/> </p>
-
-# 🚀 Current Focus
-
-Currently expanding my knowledge in:
-
-- Full Stack Development
-- Data Engineering with Python
-- Machine Learning fundamentals
-- Business Intelligence and Data Modeling
-- Backend Architecture
-- Scalable Systems
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-costa/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusAndradeCosta)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.andrade.costa@example.com)
 
 ---
 
-# 🧠 Learning Roadmap
-```c
-✔ Data Analysis
-✔ Business Intelligence
-✔ Backend Development
-✔ Database Modeling
-⬜ Machine Learning
-⬜ Data Engineering Pipelines
-⬜ Distributed Systems
-```
-
-# 🎯 Interests
-
-- Backend Architecture
-- Data Pipelines
-- Data Visualization
-- Automation
-- System Optimization
-- Scalable Software
-
-# 🤝 Connect with Me
-<p align="center"> <a href="mailto:anabe.viniciusac.pro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-<p align="center">
-
-💡 "Turning data into decisions and ideas into solutions — one commit at a time."
-
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer"/> </p> 
+_Feito com ❤️ por Vinicius Andrade Costa_
