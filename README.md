@@ -31,13 +31,11 @@ I believe technology should not only work — **it should create impact**.
 
 # 🧠 Core Areas
 
-```text
-Software Development
-Backend Development
-Data Analysis
-Business Intelligence
-Data Engineering
-```
+- Software Development
+- Backend Development
+- Data Analysis
+- Business Intelligence
+- Data Engineering
 ---
 # ⚙️ Tech Stack
 ## 💻 Programming Languages
@@ -64,23 +62,18 @@ Data Engineering
 # 🚀 Current Focus
 
 Currently expanding my knowledge in:
-```text
-Full Stack Development
 
-Data Engineering with Python
+- Full Stack Development
+- Data Engineering with Python
+- Machine Learning fundamentals
+- Business Intelligence and Data Modeling
+- Backend Architecture
+- Scalable Systems
 
-Machine Learning fundamentals
-
-Business Intelligence and Data Modeling
-
-Backend Architecture
-
-Scalable Systems
-```
 ---
 
 # 🧠 Learning Roadmap
-```text
+```c
 ✔ Data Analysis
 ✔ Business Intelligence
 ✔ Backend Development
@@ -89,20 +82,15 @@ Scalable Systems
 ⬜ Data Engineering Pipelines
 ⬜ Distributed Systems
 ```
+
 # 🎯 Interests
-```text
-Backend Architecture
 
-Data Pipelines
-
-Data Visualization
-
-Automation
-
-System Optimization
-
-Scalable Software
-```
+- Backend Architecture
+- Data Pipelines
+- Data Visualization
+- Automation
+- System Optimization
+- Scalable Software
 
 # 🤝 Connect with Me
 <p align="center"> <a href="mailto:anabe.viniciusac.pro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
