@@ -1,47 +1,103 @@
-# Olá, eu sou Vinicius Andrade Costa! 👋
+<div align="center">
 
-![Header](header.png)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:020617,30:0f172a,70:1e3a8a,100:38bdf8&text=Vinícius%20Andrade&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20•%20Data%20Engineering%20•%20Football%20Analytics&descAlignY=65&descSize=18" />
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ViniciusAndradeCosta.ViniciusAndradeCosta)
+<br>
 
-Desenvolvedor apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e impactantes. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e sistemas, explorando novas ferramentas e aprimorando minhas habilidades em diversas linguagens e frameworks.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=Construindo+sistemas+orientados+a+dados;Desenvolvimento+Backend+e+Full+Stack;An%C3%A1lise+de+dados+aplicada+a+problemas+reais;Tecnologia+para+decis%C3%B5es+inteligentes" />
 
-## 🚀 Minhas Habilidades
+<br><br>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 💡 Projetos em Destaque
+<a href="mailto:anabe.viniciusac.pro@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### [ScoutPro](https://github.com/ViniciusAndradeCosta/ScoutPro)
-Projeto desenvolvido como trabalho final da disciplina de Sistemas Web 1, consistindo em uma aplicação para otimizar o processo de scouting de jogadores, utilizando Java com Spring Boot no backend e React no frontend.
-
-### [carteira-de-investimentos](https://github.com/ViniciusAndradeCosta/carteira-de-investimentos)
-Projeto desenvolvido como parte da disciplina de Sistemas Web 2, consistindo em uma aplicação para gerenciamento de carteiras de investimentos, utilizando Java com Spring Boot no backend e React no frontend.
-
-### [adote-facil](https://github.com/ViniciusAndradeCosta/adote-facil)
-Plataforma para facilitar o processo de adoção de animais, conectando protetores e interessados. Desenvolvido com foco em usabilidade e acessibilidade.
-
-### [AEDS-I-Roteiro-Turistico-Inteligente](https://github.com/ViniciusAndradeCosta/AEDS-I-Roteiro-Turistico-Inteligente)
-Sistema em linguagem C que simula um roteiro turístico inteligente por cidades históricas de Minas Gerais, utilizando árvore binária de busca e algoritmos de ordenação.
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndradeCosta&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndradeCosta&layout=compact&theme=radical)
-
-## 🤝 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-costa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusAndradeCosta)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.andrade.costa@example.com)
+</div>
 
 ---
 
-_Feito com ❤️ por Vinicius Andrade Costa_
+# 👨‍💻 Sobre mim
+
+Sou desenvolvedor com foco em **engenharia de software e sistemas orientados a dados**.
+
+Meu interesse principal está na interseção entre:
+
+- **Desenvolvimento de Software**
+- **Engenharia Backend**
+- **Engenharia de Dados**
+- **Análise de Dados**
+- **Football Analytics**
+
+Gosto de construir sistemas onde **dados e software trabalham juntos para gerar insights e apoiar decisões inteligentes**.
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+### 💻 Linguagens
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
+</div>
+
+---
+
+### ⚙️ Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=spring" />
+</div>
+
+---
+
+### 🎨 Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</div>
+
+---
+
+### 🗄️ Banco de Dados
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres" />
+</div>
+
+---
+
+### 🧪 Testes
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cypress" />
+</div>
+
+---
+
+### 🧰 Ferramentas & Ambiente
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
+</div>
+
+---
+
+# 📊 Atividade no GitHub
+
+<div align="center">
+<img width="50%" src="https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+</div>
+
+---
+
+# 📬 Contato
+
+<div align="center">
+
+<a href="mailto:anabe.viniciusac.pro@gmail.com">
+<img src="https://img.shields.io/badge/Email-Entrar%20em%20Contato-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
