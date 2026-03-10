@@ -1,73 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:020617,30:0f172a,70:1e3a8a,100:38bdf8&text=Vinícius%20Andrade&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20•%20Data%20Engineering%20•%20Football%20Analytics&descAlignY=65&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,40:0f172a,75:1e3a8a,100:38bdf8&text=Vinícius%20Andrade&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Data%20Engineering%20•%20Football%20Analytics&descAlignY=60&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=Construindo+sistemas+orientados+a+dados;Desenvolvimento+Backend+e+Full+Stack;An%C3%A1lise+de+dados+aplicada+a+problemas+reais;Tecnologia+para+decis%C3%B5es+inteligentes" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Desenvolvendo+sistemas+orientados+a+dados;Backend+e+Full+Stack+Development;Data+Engineering+%26+Analytics;Transformando+dados+em+decis%C3%B5es+inteligentes"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco em **engenharia de software e sistemas orientados a dados**.
+Olá! Eu sou **Vinícius Andrade**.
 
-Meu interesse principal está na interseção entre:
+Sou desenvolvedor com foco em **engenharia de software, backend e sistemas orientados a dados**.  
+Tenho grande interesse em criar soluções onde **software, dados e análise trabalham juntos para gerar valor real**.
 
-- **Desenvolvimento de Software**
-- **Engenharia Backend**
+Minha atuação e estudos se concentram principalmente em:
+
+- **Desenvolvimento Backend**
 - **Engenharia de Dados**
-- **Análise de Dados**
+- **Business Intelligence**
+- **Data Analytics**
 - **Football Analytics**
 
-Gosto de construir sistemas onde **dados e software trabalham juntos para gerar insights e apoiar decisões inteligentes**.
+Gosto de construir aplicações onde **arquitetura bem estruturada, dados e tecnologia se unem para resolver problemas reais**.
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+# 🚀 Tecnologias
 
 ### 💻 Linguagens
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
-<p>
+</p>
 
-### 🧰 Ferramentas & Ambiente
+### 🛠️ Ferramentas
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
-<p>
+</p>
 
 ### 🎨 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
-<p>
+</p>
 
 ### ⚙️ Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
-<p>
+</p>
+
 
 ### 🗄️ Banco de Dados
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres" />
-<p>
-
+</p>
 
 ### 🧪 Testes
+
 <p>
 <img src="https://skillicons.dev/icons?i=cypress" />
-<p>
+</p>
 
 
 ---
 
-# 📊 Atividade no GitHub
+# 📊 Estatísticas do GitHub
+
+
+<br>
 
 <div align="center">
-<img width="50%" src="https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=ViniciusAndradeCosta&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=ffffff&dates=ffffff"/>
+
 </div>
 
 ---
@@ -77,7 +89,7 @@ Gosto de construir sistemas onde **dados e software trabalham juntos para gerar 
 <div align="center">
 
 <a href="mailto:anabe.viniciusac.pro@gmail.com">
-<img src="https://img.shields.io/badge/Email-Entrar%20em%20Contato-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contato-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
@@ -85,3 +97,5 @@ Gosto de construir sistemas onde **dados e software trabalham juntos para gerar 
 </a>
 
 </div>
+
+---
