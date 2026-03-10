@@ -8,14 +8,6 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anabe.viniciusac.pro@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -39,44 +31,36 @@ Gosto de construir sistemas onde **dados e software trabalham juntos para gerar 
 # 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Linguagens
-<div align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
-</div>
-
----
-
-### ⚙️ Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=spring" />
-</div>
-
----
-
-### 🎨 Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</div>
-
----
-
-### 🗄️ Banco de Dados
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgres" />
-</div>
-
----
-
-### 🧪 Testes
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cypress" />
-</div>
-
----
+<p>
 
 ### 🧰 Ferramentas & Ambiente
-<div align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
-</div>
+<p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+<p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+<p>
+
+### 🗄️ Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+<p>
+
+
+### 🧪 Testes
+<p>
+<img src="https://skillicons.dev/icons?i=cypress" />
+<p>
+
 
 ---
 
