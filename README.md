@@ -1,9 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,40:0f172a,75:1e3a8a,100:38bdf8&text=Vinícius%20Andrade&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Data%20Engineering%20•%20Football%20Analytics&descAlignY=60&descSize=18"/>
-
-<br>
-
+</div>
 
 ---
 
