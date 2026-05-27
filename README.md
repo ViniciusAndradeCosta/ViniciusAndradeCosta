@@ -4,9 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Desenvolvendo+sistemas+orientados+a+dados;Backend+e+Full+Stack+Development;Data+Engineering+%26+Analytics;Transformando+dados+em+decis%C3%B5es+inteligentes"/>
-
-</div>
 
 ---
 
