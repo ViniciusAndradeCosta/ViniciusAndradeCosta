@@ -87,7 +87,7 @@ Gosto de construir aplicações onde **arquitetura bem estruturada, dados e tecn
 <img src="https://img.shields.io/badge/Gmail-Contato-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
+<a href="https://www.linkedin.com/in/vinícius-andrade-4a4b33250/">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
